@@ -1,2 +1,16 @@
-# bot-autodeals-sales-assistant-98846853-1777598215085
-Chatbot APK for AutoDeals Sales Assistant | BotForge Project: 072c9f70-0b5a-4070-a50e-c47a6e33015e
+# business_chatbot_template
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
